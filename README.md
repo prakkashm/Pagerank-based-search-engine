@@ -9,3 +9,5 @@
 1. Dump the sql dump (given in the folder - "engine") into your local mysql database.
 2. Make the corresponding changes in the code (query.py) where username and password is required.
 3. Run query.py and enter search terms/query.
+
+### Refer to _final_report.pdf_ for the details of the search engine.
